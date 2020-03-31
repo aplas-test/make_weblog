@@ -19,7 +19,48 @@
       "sme_name": "Phylis McGuiness",
       "months_to_renew_support": "32",
       "sme_email": "Phylis.McGuiness@memento.net.au",
-      "investment_number": "234"
+      "investment_number": "234",
+      "integrations": [
+        {
+          "id": "int-102",
+          "name": "INT-102",
+          "categoryId": "f584fe23-c532-404a-bf69-4bcbcea094d3",
+          "description": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam.",
+          "sourceApplicationId": "make_weblog",
+          "targetApplicationId": "granular_big_data",
+          "logical_server": "A2A",
+          "status_color": "#00FF00",
+          "pattern": "Async Response",
+          "golive_date": "1/4/04",
+          "sme_name": "Dominique Catling",
+          "datacentre": "Altona",
+          "department": "Integration",
+          "status": "Active",
+          "sme_email": "dcatling1@memento.net.au",
+          "complexity": "High",
+          "last_deployment_date": "27/5/15"
+        },
+        {
+          "id": "int-262",
+          "name": "INT-262",
+          "categoryId": "f584fe23-c532-404a-bf69-4bcbcea094d3",
+          "description": "Mauris sit amet eros. Suspendisse accumsan tortor quis turpis. Sed ante. Vivamus tortor.",
+          "sourceApplicationId": "make_weblog",
+          "targetApplicationId": "granular_big_data",
+          "logical_server": "LEG",
+          "status_color": "#FF0000",
+          "pattern": "Enrichment",
+          "golive_date": "21/9/03",
+          "sme_name": "Gilberto Thompkins",
+          "decom_date": "5/4/14",
+          "datacentre": "Altona",
+          "department": "Integration",
+          "status": "Decomissioned",
+          "sme_email": "gthompkins0@memento.net.au",
+          "complexity": "Medium",
+          "last_deployment_date": "2/8/16"
+        }
+      ]
     }
   ]
 }
